@@ -94,11 +94,10 @@ E, quando não estou fazendo isso, provavelmente estou **lendo, assistindo algum
 
 ---
 
-## 📊 GitHub Stats
+## 👾 Minhas Contribuições
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carol-almeida&show_icons=true&theme=radical&hide_border=true&v=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carol-almeida&layout=compact&theme=radical&hide_border=true&v=1" height="150" alt="Linguagens mais usadas" />
+  <img src="https://raw.githubusercontent.com/carol-almeida/carol-almeida/output/pacman.svg" width="100%" alt="Pac-Man GitHub Grid" />
 </div>
 
 ---
